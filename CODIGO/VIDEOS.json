@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": 2,
+        "title": "The Matrix",
+        "director": "The Wachowskis"
+    }
+]
